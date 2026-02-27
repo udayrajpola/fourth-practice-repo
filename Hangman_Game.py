@@ -34,3 +34,4 @@ while not game_over:
     print(placeholder)
     print(lives)
 
+print("the game is end")
