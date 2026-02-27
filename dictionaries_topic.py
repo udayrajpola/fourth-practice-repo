@@ -29,3 +29,7 @@ programming_dictionary={
 val=programming_dictionary.pop("place") #it will contain the value of popped key i mean removed key
 print(val)
 print(programming_dictionary)
+print("it is the end of dictionaries")
+programming_dictionary={
+    "name": "Uday Raj is my full name",
+}
